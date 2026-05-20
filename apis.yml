@@ -10,6 +10,10 @@ tags:
 modified: '2026-04-28'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/parkerhannifin
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/parker-hannifin
   - type: Website
     url: https://www.parker.com
   - type: Careers
