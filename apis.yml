@@ -10,6 +10,8 @@ tags:
 modified: '2026-04-28'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/parker-hannifin-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/parkerhannifin
   - type: LinkedIn
