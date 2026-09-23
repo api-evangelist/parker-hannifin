@@ -1,7 +1,9 @@
 ---
 title: Here's What Lifted Parker-Hannifin Corporation (PH) in Q4
 url: https://finance.yahoo.com/news/lifted-parker-hannifin-corporation-ph-125119097.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Parker-Hannifin" press release artificial intelligence'
 position: 5
 source: serpapi-google

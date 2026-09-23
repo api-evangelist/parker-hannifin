@@ -1,7 +1,9 @@
 ---
 title: Digital - Parker Hannifin Corporation
 url: https://www.parkerid.com/content/parker-id/us/en/home/brand-in-action/digital.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Parker-Hannifin" press release artificial intelligence'
 position: 4
 source: serpapi-google
